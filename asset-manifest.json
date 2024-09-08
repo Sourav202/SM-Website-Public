@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/SM-Website-Public/static/css/main.faf66b51.css",
-    "main.js": "/SM-Website-Public/static/js/main.fca83c7d.js",
+    "main.css": "/SM-Website-Public/static/css/main.67f768d4.css",
+    "main.js": "/SM-Website-Public/static/js/main.971351e3.js",
     "static/js/453.f58051f0.chunk.js": "/SM-Website-Public/static/js/453.f58051f0.chunk.js",
     "static/media/about3.JPG": "/SM-Website-Public/static/media/about3.f997d98eb1304fc3cec8.JPG",
     "static/media/paralax 3.PNG": "/SM-Website-Public/static/media/paralax 3.c77c2ecae985e22e7c7f.PNG",
@@ -44,12 +44,12 @@
     "static/media/handlebars-logo.PNG": "/SM-Website-Public/static/media/handlebars-logo.9483a955b4e0be102aaa.PNG",
     "static/media/nodejs-logo.PNG": "/SM-Website-Public/static/media/nodejs-logo.9689338fbc307834adc9.PNG",
     "index.html": "/SM-Website-Public/index.html",
-    "main.faf66b51.css.map": "/SM-Website-Public/static/css/main.faf66b51.css.map",
-    "main.fca83c7d.js.map": "/SM-Website-Public/static/js/main.fca83c7d.js.map",
+    "main.67f768d4.css.map": "/SM-Website-Public/static/css/main.67f768d4.css.map",
+    "main.971351e3.js.map": "/SM-Website-Public/static/js/main.971351e3.js.map",
     "453.f58051f0.chunk.js.map": "/SM-Website-Public/static/js/453.f58051f0.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.faf66b51.css",
-    "static/js/main.fca83c7d.js"
+    "static/css/main.67f768d4.css",
+    "static/js/main.971351e3.js"
   ]
 }
