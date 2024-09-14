@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/SM-Website-Public/static/css/main.651815ba.css",
-    "main.js": "/SM-Website-Public/static/js/main.008a89bc.js",
+    "main.js": "/SM-Website-Public/static/js/main.74a06be2.js",
     "static/js/453.f58051f0.chunk.js": "/SM-Website-Public/static/js/453.f58051f0.chunk.js",
     "static/media/about3.JPG": "/SM-Website-Public/static/media/about3.f997d98eb1304fc3cec8.JPG",
     "static/media/paralax 3.PNG": "/SM-Website-Public/static/media/paralax 3.c77c2ecae985e22e7c7f.PNG",
@@ -21,7 +21,7 @@
     "static/media/proj1.PNG": "/SM-Website-Public/static/media/proj1.669fec3f667c18584587.PNG",
     "static/media/virtualbox-logo.png": "/SM-Website-Public/static/media/virtualbox-logo.ab5d579a7631e6063cfa.png",
     "static/media/intellij-logo.png": "/SM-Website-Public/static/media/intellij-logo.cc090be9e874572f3389.png",
-    "static/media/Sourav Minhas Fall24 Resume.pdf": "/SM-Website-Public/static/media/Sourav Minhas Fall24 Resume.12f06a2226883d4266bb.pdf",
+    "static/media/Sourav Minhas Fall24 Resume.pdf": "/SM-Website-Public/static/media/Sourav Minhas Fall24 Resume.39ad8732f74df1b04d58.pdf",
     "static/media/vscode-logo.png": "/SM-Website-Public/static/media/vscode-logo.a61dc62c499ed3aeefdc.png",
     "static/media/vstudio-logo.png": "/SM-Website-Public/static/media/vstudio-logo.b3ab844f27c377c9537a.png",
     "static/media/sql-logo.PNG": "/SM-Website-Public/static/media/sql-logo.1eb5ebba4696c4bcd64f.PNG",
@@ -45,11 +45,11 @@
     "static/media/nodejs-logo.PNG": "/SM-Website-Public/static/media/nodejs-logo.9689338fbc307834adc9.PNG",
     "index.html": "/SM-Website-Public/index.html",
     "main.651815ba.css.map": "/SM-Website-Public/static/css/main.651815ba.css.map",
-    "main.008a89bc.js.map": "/SM-Website-Public/static/js/main.008a89bc.js.map",
+    "main.74a06be2.js.map": "/SM-Website-Public/static/js/main.74a06be2.js.map",
     "453.f58051f0.chunk.js.map": "/SM-Website-Public/static/js/453.f58051f0.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.651815ba.css",
-    "static/js/main.008a89bc.js"
+    "static/js/main.74a06be2.js"
   ]
 }
